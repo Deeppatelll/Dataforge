@@ -1,4 +1,6 @@
 backend/vendor/** linguist-vendored
-backend/storage/** linguist-vendored
 backend/cache/** linguist-vendored
+backend/logs/** linguist-vendored
+backend/tmp/** linguist-vendored
 scripts/** linguist-vendored
+sample-data/** linguist-vendored
