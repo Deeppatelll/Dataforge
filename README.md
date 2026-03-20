@@ -104,10 +104,10 @@ Event-driven data pipelines
 Search-based reporting tools
 
 📁 Project Structure
+frontend/   # React (Vite) UI (main code)
 backend/
   ├── api/
   └── worker/
-frontend/
 docs/
 sample-data/
 scripts/
