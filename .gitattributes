@@ -1,3 +1,4 @@
 backend/vendor/** linguist-vendored
 backend/storage/** linguist-vendored
 backend/cache/** linguist-vendored
+scripts/** linguist-vendored
