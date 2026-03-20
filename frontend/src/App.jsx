@@ -62,3 +62,4 @@ export default function App() {
 }
 
 // update: trigger GitHub language recalculation
+// update 2: refresh GitHub language metrics
