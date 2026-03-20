@@ -1,5 +1,6 @@
-backend/** linguist-vendored
-backend/api/public/index.php -linguist-vendored
-backend/api/src/Controllers/HealthController.php -linguist-vendored
+backend/vendor/** linguist-vendored
+backend/cache/** linguist-vendored
+backend/logs/** linguist-vendored
+backend/tmp/** linguist-vendored
 scripts/** linguist-vendored
 sample-data/** linguist-vendored
