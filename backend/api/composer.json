@@ -1,0 +1,13 @@
+{
+  "name": "reporting/module-api",
+  "description": "Reporting module API",
+  "type": "project",
+  "autoload": {
+    "psr-4": {
+      "Reporting\\Api\\": "src/"
+    }
+  },
+  "require": {
+    "php": "^8.2"
+  }
+}

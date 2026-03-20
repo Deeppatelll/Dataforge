@@ -1,0 +1,27 @@
+# OS and editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# PHP
+backend/api/vendor/
+backend/worker/vendor/
+
+# Runtime data
+*.log
+*.tmp
+*.cache
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Keep sample-data directory empty by default
+sample-data/*
+!sample-data/.gitkeep

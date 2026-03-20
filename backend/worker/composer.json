@@ -1,0 +1,9 @@
+{
+  "name": "reporting/module-worker",
+  "description": "Reporting module producer-consumer worker",
+  "type": "project",
+  "require": {
+    "php": "^8.2",
+    "nmred/kafka-php": "^0.2.0"
+  }
+}
