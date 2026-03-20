@@ -1,2 +1,3 @@
-backend/** linguist-vendored
-*.php linguist-vendored
+backend/vendor/** linguist-vendored
+backend/storage/** linguist-vendored
+backend/cache/** linguist-vendored
