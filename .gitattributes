@@ -1,11 +1,4 @@
-backend/vendor/** linguist-vendored
-backend/cache/** linguist-vendored
-backend/logs/** linguist-vendored
-backend/tmp/** linguist-vendored
-backend/api/src/** linguist-vendored
-backend/worker/*.php linguist-vendored
-backend/api/src/Controllers/** -linguist-vendored
-backend/api/src/Config/** -linguist-vendored
+backend/** linguist-vendored
 backend/api/public/index.php -linguist-vendored
 backend/worker/consumer.php -linguist-vendored
 backend/worker/producer.php -linguist-vendored
