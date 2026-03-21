@@ -8,7 +8,6 @@ It leverages Apache Kafka for streaming, Apache Solr for indexing/search, and a 
 ## ✨ Key Features
 
 
----
 
 ## 🏗️ Architecture
 
@@ -93,6 +92,7 @@ Worker Consumer
 Apache Solr Index
    ↓
 React Dashboard (UI)
+
 📌 Use Cases
 
 Real-time data analytics dashboards
@@ -112,6 +112,7 @@ docs/
 sample-data/
 scripts/
 docker-compose.yml
+
 ⚠️ Notes
 
 Ensure Docker is running before starting services
